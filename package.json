@@ -1,0 +1,23 @@
+{
+  "name": "lsi",
+  "version": "1.0.0",
+  "description": "FT WebSoft",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon -L index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Feli87/0x001.git"
+  },
+  "keywords": [
+    "FT",
+    "WebSoft"
+  ],
+  "author": "Felipe Traina",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Feli87/0x001/issues"
+  },
+  "homepage": "https://github.com/Feli87/0x001#readme"
+}
